@@ -1,6 +1,12 @@
-Nume,Prenume,Vârstă,Funcție
-Nicolescu,Răzvan,23,eu
-Nicolescu,Elena,58,mamă
-Nicolescu,Paul,57,tată
-Matiș,Maria,65,mătușă
-Matiș,Mihai,65,unchi
+Brand,model,seats,power(HP),price
+Suzuki,Vitara,5,140,$28000
+Hyundai,Tucson,5,132,$25500
+Hyundai,Tucson,5,176,$39200
+Mercedes,"E-class, AMG edition",4,320,$112000
+Renault,Clio,5,100,$17800
+Dacia,Duster,5,120,$19800
+Mazda,CX-80,7,270,$62000
+Volkswagen,Passat,5,190,$51000
+Volkswagen,Golf 8,5,140,$32000
+Ferrari,"Testarosa, ""Pininfarina"" design, 1996",2,430,$253000
+Volvo,"""Polestar"" XC90",5,345,$97600
